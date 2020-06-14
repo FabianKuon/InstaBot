@@ -1,0 +1,1 @@
+This is an ongoing project to create a fully automated instagram bot from scratch

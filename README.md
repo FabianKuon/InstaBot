@@ -2,6 +2,5 @@ This is an ongoing project to create a fully automated instagram bot from scratc
 
 Necessary python packages:
 - webbrowser from selenium
-- nupmy
 
-This program uses the brave browser for web access. Therefore the chromedriver has to be downloaded.
+Either the Safari or the Internet Explorer webdriver has to be installed.
